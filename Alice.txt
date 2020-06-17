@@ -13,3 +13,7 @@ More changes
 More web changes
 
 Pushed a commit the tutorial didn't want me to, so here's another change
+
+Changes for interactive rebase
+
+One more change
